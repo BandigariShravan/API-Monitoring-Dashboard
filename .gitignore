@@ -1,0 +1,29 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
+out/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs and temporary files
+*.log
+logs/
+*.tlog
+*.cache
+
+# Visual Studio specific
+.vs/
+.vscode/
+
+# Azure DevOps related
+.azure-pipelines/
+
+# NuGet
+*.nupkg
+packages/
